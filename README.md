@@ -1,5 +1,5 @@
 
-> Open deze pagina op [https://kurtdevocht.github.io/vuilbakkendans/](https://kurtdevocht.github.io/vuilbakkendans/)
+> Open deze pagina op [https://CoderDojo-Lier.github.io/vuilbakkendans/](https://CoderDojo-Lier.github.io/vuilbakkendans/)
 
 ## Gebruiken als extensie
 
@@ -8,7 +8,7 @@ Deze repository kan worden toegevoegd als **extensie** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Nieuw project**
 * klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/kurtdevocht/vuilbakkendans** en importeren
+* zoeken naar **https://github.com/CoderDojo-Lier/vuilbakkendans** en importeren
 
 ## Dit project bewerken
 
@@ -16,7 +16,7 @@ Om deze repository te bewerken in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/kurtdevocht/vuilbakkendans** en klik op importeren
+* plak **https://github.com/CoderDojo-Lier/vuilbakkendans** en klik op importeren
 
 #### Metadata (gebruikt voor zoeken, rendering)
 
